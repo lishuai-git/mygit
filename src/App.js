@@ -6,6 +6,7 @@ class App extends React.Component{
   render(){
     return (
         <div>
+            <h1>修改过的</h1>
           <Router a={Index}/>
         </div>
     )
