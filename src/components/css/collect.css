@@ -1,0 +1,37 @@
+.qwer{
+    color:red;
+}
+.coll_nav{
+    width:100%;
+    height:4rem;
+    background: #01a3ee;
+}
+.coll_nav img{
+    width:2rem;
+    height:2rem;
+    margin:1rem 2rem 0 1rem;
+}
+.coll_nav span{
+    color:white;
+    font-size: 1.5rem;
+}
+.cont{
+    height:4rem;
+    background:#ffffff;
+    padding:1rem;
+    border:.1rem solid #bebebe;
+    border-radius: 1rem;
+    margin-top: .8rem;
+}
+.cont span {
+    display: inline-block;
+    width:15rem;
+    font-size:1rem;
+}
+.cont img {
+    display: inline-block;
+    float:right;
+    width:4.7rem;
+    height:4.6rem;
+    margin-right:1rem
+}

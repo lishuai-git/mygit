@@ -1,0 +1,72 @@
+.topcoll{
+    width:100%;
+    height:4rem;
+    background:#00a2ed;
+}
+.p_retu{
+    width:2rem;
+    height:2rem;
+    display: inline-block;
+}
+.p_retu img{
+    width:2rem;
+    height:2em;
+    margin:1rem 0 0 1rem;
+}
+.topcoll .p_wenz{
+    margin-left:1rem;
+    font-size:1.5rem;
+    color:white;
+}
+.p_bianji{
+    width:2rem;
+    height:2rem;
+    margin:1rem 0 0 11rem;
+}
+.p_shul {
+    width:100%;
+    height:3rem;
+    background:#fff;
+}
+.p_shul .p_wenz{
+    display: inline-block;
+    margin:.5rem 0 0 1.4rem;
+    font-size:1.5rem;
+}
+.p_collent{
+    width:100%;
+    height:15.6rem;
+    background:white;
+    border-bottom: .11rem solid #dfdfdf;
+    border-top: .11rem solid #dfdfdf;
+}
+.p_coll_left {
+    width:5.7rem;
+    height:15.6rem;
+    display: inline-block;
+}
+.p_coll_left img{
+    width:3.8rem;
+    height:3.8rem;
+    margin:1.71rem 0 0 1.71rem;
+}
+.p_coll_right{
+    width:19.3rem;
+    height:15.6rem;
+    float: right;
+    display: inline-block;
+}
+.p_coll_right strong{
+    font-size:1.7rem;
+    margin:2rem 0 0 0.83rem;
+    display: inline-block;
+}
+.p_coll_right p {
+ font-size: 1.6rem;
+    margin-left:.83rem;
+}
+.p_coll_right span {
+    font-size:.98rem;
+    margin:2.3rem 0 0 .83rem;
+    display: inline-block;
+}

@@ -1,0 +1,97 @@
+/*top*/
+.topimg{
+    width:100%;
+    height:1.85rem;
+}
+.topimg img {
+    display: inline-block;
+    width:100%;
+    height:1.85rem;
+}
+/*nav*/
+.x_nav{
+    width:100%;
+    height:2.67rem;
+    background:#00a2ed;
+}
+.x_nav .retu{
+    display: inline-block;
+    margin:.5rem 0 0 1.3rem;
+}
+.x_nav img {
+    width:1.5rem;
+    height:1.5rem;
+}
+.retu_one{
+    display: inline-block;
+    margin:.5rem 0 0 9rem;
+}
+.x_nav .zihao {
+    display: inline-block;
+    margin-left:.4rem;
+    font-size:1.32rem;
+    color:white;
+}
+/*banner*/
+.x_banner img {
+    width:100%;
+    height:14.05rem
+}
+.x_banner{
+    position:relative;
+}
+.x_banner span{
+    display: inline-block;
+    font-size:1.5rem;
+    color:white;
+    position:absolute;
+    left:1rem;
+    top:8.7rem;
+}
+/*content*/
+.x_cont{
+    width:100%;
+}
+.x_cont p {
+    width:90%;
+    margin-left:5%;
+    font-size:1.5rem;
+}
+/*show*/
+.show{
+    width:80%;
+    height:24rem;
+    background: white;
+    position:fixed;
+    top:12rem;
+    left:10%;
+    display: none;
+    z-index: 9999;
+}
+.show p {
+    font-size:1.5rem;
+    margin-left:2rem;
+}
+.show .con div{
+    width:4.4rem;
+    height:6rem;
+    display: inline-block;
+    margin-left:2rem;
+    text-align: center;
+}
+.show .con div img{
+    width:4rem;
+    height:4rem;
+}
+.bodd{
+    width:100%;
+    height:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    background: rgba(0,0,0,0.6);
+    display:none;
+}
+.img-place-holder{
+    display: none;
+}

@@ -1,0 +1,171 @@
+/*top*/
+li{
+    list-style: none;
+    margin-left:-2rem;
+}
+.topimg{
+    width:100%;
+    height:1.85rem;
+}
+.topimg img {
+    display: inline-block;
+    width:100%;
+    height:1.85rem;
+}
+/*nav*/
+.nav{
+    width:100%;
+    height:2.66rem;
+    background:#00a2ed;
+}
+.nav .nav_img_one{
+    width:1.6rem;
+    height:1.4rem;
+    margin:.6rem 0 0 1.55rem;
+}
+.nav .index{
+    display: inline-block;
+    color:white;
+    margin-left:1.6rem ;
+    font-size:1.53rem;
+}
+.nav .nav_img_two{
+    width:1.6rem;
+    height:1.4rem;
+    margin:.6rem 0 0 10rem;
+}
+.nav .nav_img_three{
+    width:1.6rem;
+    height:1.4rem;
+    margin:.6rem 0 0 3rem;
+}
+/*content*/
+.todaynews{
+    margin-left:1.2rem;
+}
+.cont{
+    height:4rem;
+    background:#ffffff;
+    padding:1rem;
+    border:.1rem solid #bebebe;
+    border-radius: 1rem;
+    margin-bottom: .8rem;
+    margin-left:1rem;
+}
+.cont span {
+
+    width:16rem;
+    font-size:1rem;
+    margin-left:1rem;
+}
+.cont img {
+    display: inline-block;
+    float:right;
+    width:4.7rem;
+    height:4.6rem;
+    margin-right:1rem
+}
+.ban_img_imp{
+    width:100%;
+    height:20rem;
+}
+.bigban{
+    height:22rem;
+    position:relative;
+}
+.ban_wenzi{
+    display: inline-block;
+    font-size:1.5rem;
+    color:white;
+    position:absolute;
+    left:1rem;
+    top:13.7rem;
+}
+body{
+    position: relative;
+}
+.zuoce{
+    width:80%;
+    height:100%;
+    background:white;
+    position:absolute;
+    top:1.85rem;
+    left:0;
+    display: none;
+    z-index: 99;
+}
+.zuoce .top {
+    height:12rem;
+    background:#00a2ed;
+}
+.ying{
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.6);
+    display: none;
+    position:fixed;
+    top:0;
+    left:0;
+}
+.zuoce .top_one{
+    height:6rem;
+}
+.zuoce .top_one img{
+    width:4rem;
+    height:4rem;
+    border-radius: 50%;
+    margin:1rem 0 0 1rem;
+    float: left;
+}
+.name{
+    float: left;
+    font-size:2rem;
+    margin:2rem 0 0 1rem;
+}
+.zuoce .top_two{
+    height:3rem;
+    margin-top:3rem;
+}
+.two_left img{
+     width:2rem;
+     height:2rem;
+ }
+.two_left span{
+    font-size:1.4rem;
+    color:white;
+    margin-left: .5rem;
+}
+.two_left{
+    display: inline-block;
+    margin-left:1rem;
+}
+.two_right {
+    float: right;
+    display: inline-block;
+    margin:0 2rem -.5rem 0 ;
+}
+.two_right img{
+    width:1.8rem;
+    height:1.8rem;
+}
+.two_right span{
+    font-size:1.4rem;
+    color:white;
+    margin-left:.5rem;
+}
+.shouye{
+    width:100%;
+    height:3rem;
+    background:#f0f0f0;
+}
+.shouye img {
+    width:2rem;
+    height:2rem;
+    display: inline-block;
+    margin:.6rem 0 0 1rem;
+}
+.shouye span {
+    display: inline-block;
+    font-size: 1.3rem;
+    margin:-1rem 0 0 1rem;
+}
